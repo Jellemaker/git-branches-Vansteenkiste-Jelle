@@ -1,0 +1,1 @@
+console.log("Everybody wants to rule the world")
